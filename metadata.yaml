@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32507'
     url: http://www.gutenberg.org/2009/agents/32507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27169#Fern-Vale--Volume-1-or-the-Queensland-Squatter
 gutenberg_issued: '2008-11-06'
 gutenberg_type: Text
 identifiers:
